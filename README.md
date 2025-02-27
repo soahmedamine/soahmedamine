@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm Ahmed Amine Soualhi!" src="./assets/gh-readme-header.png" />
-</p>
+
 
 ### Hi there! I'm **Ahmed Amine Soualhi** 👋
 
