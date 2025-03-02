@@ -49,10 +49,7 @@ A complete **e-commerce platform** with **delivery integration**, developed usin
 
 ---
 
-### 🕹️ Fun Feature: Serpent Game 🐍
-A **custom snake game** that visually represents **commits and repository activity**! The snake grows as you commit more. Watch it evolve with your contributions!
 
-🔗 **Check it out**: [Serpent Game](#) *(link to game integration)*
 
 <img src="https://raw.githubusercontent.com/soahmedamine/soahmedamine/output/snake.svg" alt="Snake animation" />
 
